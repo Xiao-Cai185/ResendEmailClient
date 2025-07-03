@@ -1,0 +1,5 @@
+tkcalendar
+requests
+tzlocal
+pytz
+tkinterdnd2
